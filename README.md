@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Excogitatoris69
 - 👀 I’m interested in technology and programming .
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
+- I am Currently work with TvHeadend
 
 <!---
 Excogitatoris69/Excogitatoris69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
